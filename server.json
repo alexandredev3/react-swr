@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Alexandre",
+      "id": 1
+    },
+    {
+      "name": "João",
+      "id": 2
+    },
+    {
+      "name": "Carlos",
+      "id": 3
+    },
+    {
+      "name": "Jubiles",
+      "id": 4
+    },
+    {
+      "name": "Pablo",
+      "id": 5
+    },
+    {
+      "name": "Diego",
+      "id": 6
+    },
+    {
+      "name": "Sara",
+      "id": 7
+    },
+    {
+      "name": "Jubiles",
+      "id": 8
+    }
+  ]
+}
