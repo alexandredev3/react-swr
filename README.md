@@ -19,7 +19,7 @@
  </p>
  
  <p align="center">
-  Documentação completa da Biblioteca: <a href="https://swr.vercel.app/">Clique Aqui</a>
+  Documentação completa da Biblioteca: <a target="_blank" href="https://swr.vercel.app/">Clique Aqui</a>
   <br />
-  Pagina no Notion.so explicando como foi feita esssa aplicação: <a href="https://www.notion.so/Consumindo-APIs-no-React-com-SWR-c317f0bae3e341449128d1a229c1cdcc">Clique Aqui</a>
+  Pagina no Notion.so explicando como foi feita esssa aplicação: <a target="_blank" href="https://www.notion.so/Consumindo-APIs-no-React-com-SWR-c317f0bae3e341449128d1a229c1cdcc">Clique Aqui</a>
  </p>
