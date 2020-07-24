@@ -23,3 +23,16 @@
   <br />
   Pagina no Notion.so explicando como foi feita esssa aplicação: <a target="_blank" href="https://www.notion.so/Consumindo-APIs-no-React-com-SWR-c317f0bae3e341449128d1a229c1cdcc">Clique Aqui</a>
  </p>
+ 
+<h3>How to use this application</h3>
+1. Copy and paste this command into your terminal:
+  ```sh
+  $ git clone ${Repository SSH}
+  ```
+
+2. Next type this command to start ReactJS
+  ```sh
+  $ yarn start
+  ```
+
+3. Now go to http://localhost:3000/
