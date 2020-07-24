@@ -25,9 +25,10 @@
  </p>
  
 <h3>How to use this application</h3>
+
 1. Copy and paste this command into your terminal:
   ```sh
-  $ git clone ${Repository SSH}
+  $ git clone ${RepositorySSH}
   ```
 
 2. Next type this command to start ReactJS
